@@ -1,7 +1,7 @@
 export const STEPS = [
   {
     type: "greeting",
-    title: "Feliz San Valentín, Mi amor",
+    title: "Hola mi amor",
     content:
       "Hoy quiero recordarte lo inmensamente afortunado que soy de compartir mi vida contigo.",
   },
@@ -10,16 +10,16 @@ export const STEPS = [
     title: "Razones para amarte cada día más",
     items: [
       "Porque amo verte sonreír",
-      "Porque estamos construyendo juntos la vida que soñamos",
+      "Porque estamos construyendo juntos un amor verdadero",
       "Porque admiro tu gentileza y tu corazón",
-      "Porque haces que cada día sea más memorable",
-      "Porque simplemente no imagino mi vida sin ti",
+      "Porque haces que cada día sea mejor",
+      "Porque simplemente no imagino un día sin ti",
     ],
   },
   {
     type: "moments",
     title: "Nuestra historia",
-    content: "Cada recuerdo a tu lado es un tesoro que guardo en el alma.",
+    content: "Cada momento a tu lado es muy especial para mi.",
   },
   {
     type: "photo",
@@ -48,7 +48,7 @@ export const STEPS = [
   {
     type: "question",
     title: "Mi amor...",
-    content: "¿Quieres seguir siendo mi Valentín?",
+    content: "¿Quieres cenar conmigo?",
   },
 ];
 
@@ -58,9 +58,9 @@ export const UI_TEXTS = {
     title: "Vale por una",
     prize: "Cena Romántica",
     valid_for: "Válido para",
-    recipient: "Mi Esposa Amada",
-    date: "15 Feb 2026",
-    location: "Lugar Sorpresa",
+    recipient: "Mi Cuchurrumin",
+    date: "14 Abril1 2026",
+    location: "Mariposaurio",
     footer: "¡Sabía que dirías que sí! ❤️",
   },
   question: {
